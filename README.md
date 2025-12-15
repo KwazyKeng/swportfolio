@@ -1,4 +1,4 @@
 # Keng's Portfolio
 University of St. Thomas Signature Work Portfolio
 
-Here at the University of St. Thomas, I have learned a lot throughout all of my classes. To start off, one of the very first courses that I took was a Justice and Peace course in which I learned about the struggles that we often do not see. 
+Here at the University of St. Thomas, I have learned a lot throughout all of my classes. One of the very first courses that I took was a Justice and Peace course in which I learned about the struggles that we often do not see. This would kickoff a four year journey of great classes that taught more than just coding and problem solving. Many of these courses incorporated the University of St. Thomas' missions and convictions, pushing towards advancing the common good. To start off, I knew what I wanted to study even before starting classes. My family has a history of going into technology, so I naturally went into Computer Science. I was a bit reluctant at first, but after a few classes, I knew that this was a field that I wanted to go into. 
